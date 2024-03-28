@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.textBox
+{
+  width: 37%;
+    margin-left: 30%;
+    margin-top: 4%;
+}
